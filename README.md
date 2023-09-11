@@ -1,5 +1,11 @@
 # CMPG-323-Project-2-30297079
 
+**API link on Azure**
+https://cmpg-323-project-2-3029707920230831133241.azurewebsites.net/index.html
+
+**Project link:**
+https://portal.azure.com/#@nwuac.onmicrosoft.com/resource/subscriptions/e35cf64d-8a06-488a-855b-4c40dd17fede/resourceGroups/project_2/overview
+
 # CRUD RESTful API Readme
 ## Requirements
 
